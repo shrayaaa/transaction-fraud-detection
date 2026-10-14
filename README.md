@@ -23,7 +23,7 @@ This project uses the IEEE-CIS Fraud Detection competition data. The main files 
 - `train_transaction.csv` — transaction-level features and the `isFraud` target.
 - `train_identity.csv` — identity/device-related features for a subset of transactions.
 
-**Access requirements:** You need a Kaggle account, access to the competition, and acceptance of its rules. The notebooks use `kagglehub` to download the files, so you do not need to manually copy CSVs into a `data/raw/` folder.
+**Access requirements:** You need a Kaggle account, access to the competition, and acceptance of its rules. The notebooks use `kagglehub` to download the files, so you do not need to manually copy CSVs into a folder.
 
 ## Getting started
 
