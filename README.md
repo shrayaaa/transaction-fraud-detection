@@ -30,11 +30,9 @@ This project uses the IEEE-CIS Fraud Detection competition data. The main files 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/shrayaaa/transaction-fraud-detection.git
 cd fraud-detection
 ```
-
-Replace `<your-repository-url>` with the URL of your GitHub repository.
 
 ### 2. Create and activate a virtual environment (optional but recommended)
 
