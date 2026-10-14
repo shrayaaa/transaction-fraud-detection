@@ -1,10 +1,28 @@
-venv/
-__pycache__/
-.ipynb_checkpoints/
-
+# Dataset files
 data/raw/
 data/processed/
 
-models/
+# Python environments and cache
+venv/
+.venv/
+__pycache__/
+*.py[cod]
 
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment variables and credentials
 .env
+.env.*
+!.env.example
+
+# Model artifacts
+models/
+*.joblib
+*.pkl
+*.pickle
+*.ubj
+*.onnx
+*.npz
+*.npy
+*.parquet
